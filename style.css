@@ -1,0 +1,177 @@
+.divmain{
+    display: grid;
+    grid-template-columns:10px 1000px 5px ;
+    
+    grid-gap: 80px;
+    box-shadow: 0px 2px rgb(238, 236, 236);
+}
+
+.divsub {
+    background-color: white;
+   
+}
+.sub1 {
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 15px;
+    width:45px;
+    
+}
+.sub2 {
+    grid-column:2/3;
+    height: 40px;
+    width: 1000px;
+    text-decoration: none;
+    padding-top: 15px;
+      text-align: center;
+
+}
+.sub2  a{
+    
+    text-decoration: none;
+    padding-left: 40px;
+    text-align: center;
+    
+
+}
+.sub3 {
+    height: 40px;
+    width: 150px;
+
+    font-size: 20px;
+   
+    text-align: center;
+    text-decoration: none;
+    padding-top: 15px;
+    
+}
+
+.sub3  a{
+    text-decoration-line: underline;
+    text-decoration-color: rgb(4, 155, 155);
+    color: rgb(1, 134, 134);
+    padding-left: 40px;
+    text-align: center;
+    
+
+}
+
+
+.divmycv {
+    display: grid;
+    grid-template-columns: 200px 800px;
+    grid-gap: 20px;
+    
+}
+
+.divphte {
+    height:400px;
+    padding-left: 70px;
+   
+}
+
+
+.divtext  {
+    height:400px;
+    width:1000px;
+    margin-left: 270px;
+    
+      
+}
+
+
+.divh1{
+    margin-top: 100px;
+    margin-left:20px;
+    font-size: 40px;
+    
+    
+}
+
+.divp{
+    font-size:30px;
+    margin-top:-50px;
+    margin-left:40px;
+     
+
+   
+}
+
+.divbt {
+    background-color:rgb(5, 134, 143);
+    border-radius: 20px;
+    border: none;
+    margin-left:60px;
+    height:28px;
+    width:150px;
+    color: antiquewhite;
+    
+}
+
+.divbt:hover{
+    background-color:rgb(78, 3, 97);
+   
+    
+}
+
+
+.under{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-gap:5px;
+}
+
+.divunder {
+    
+}
+
+.divunder1 {
+    color:rgb(4, 123, 123);
+    padding-left: 30px;
+    padding-top: px;
+}
+
+.divunder2 {
+    padding-left: 230px;
+    
+}
+
+
+
+.divunder1 h2{
+    color:black;
+    padding-left: px;
+    margin-top:-13px;
+}
+
+.table {
+    display: grid;
+    grid-template-columns:10px 20px;
+    grid-template-rows:20px 20px 20px;
+    grid-gap:45px  1px;
+}
+
+
+
+.subte{
+    width:400px;
+    height:70px;
+    padding-left: 30px;
+    color: black;
+    padding-top: 1px;
+    
+   
+}
+
+.subte h3{
+    margin-top:0;
+  
+}
+
+.subte p{
+    margin-top:-12;
+      margin-left:2;
+  
+}
+
+
